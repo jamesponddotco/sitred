@@ -15,6 +15,7 @@ const (
 	// Description is the description for the application that controls the
 	// service.
 	Description string = "a CLI tool for controlling the + " + Name + " service"
+
 	// EnvPrefix is the environment variable prefix for the service.
 	EnvPrefix string = "SITRED"
 )
